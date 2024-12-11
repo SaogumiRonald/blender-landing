@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Intro';
+    src: url('../fonts/juxwmu1i.woff2') format('woff2'),
+        url('../fonts/rysufpw2.woff') format('woff'),
+        url('../rysufpw2.html') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
